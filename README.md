@@ -1,4 +1,4 @@
-[![Header](https://github.com/Aryan9901/Aryan9901/blob/master/header.png?raw=true "Header")](https://rahulkarda.netlify.app)
+[![Header](https://github.com/Aryan9901/Aryan9901/blob/master/header1.png?raw=true "Header")](https://rahulkarda.netlify.app)
 
 <p align="center">
   <a href="https://rahulkarda.netlify.app" target="_blank">
