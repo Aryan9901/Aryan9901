@@ -183,11 +183,11 @@ website -->
 
 # GitHub Stats 📈
 
-<a href="https://github.com/rahulkarda/Aryan9901">
+<a href="https://github.com/Aryan9901/Aryan9901">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan9901&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/rahulkarda/Aryan9901">
+<a href="https://github.com/Aryan9901/Aryan9901">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan9901&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Aryan's GitHub Stats" />
 </a>
 <br><br>
