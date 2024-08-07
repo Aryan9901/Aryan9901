@@ -7,7 +7,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/agaryan/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1SEItkP4m3DDMmUlZYIi3vrlUfvdf8eYO" target="_blank" download="resume.pdf">
+  <a target="_blank" href="https://drive.google.com/file/d/1l2KTuLbqgiDS999LpOEt5gKpfmcEL7rN/view?usp=sharing" target="_blank" download="resume.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
