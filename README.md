@@ -1,4 +1,4 @@
-[![Header](https://github.com/rahulkarda/rahulkarda/blob/main/header.png?raw=true "Header")](https://rahulkarda.netlify.app)
+[![Header](https://github.com/Aryan9901/Aryan9901/blob/master/header.png?raw=true "Header")](https://rahulkarda.netlify.app)
 
 <p align="center">
   <a href="https://rahulkarda.netlify.app" target="_blank">
@@ -19,6 +19,7 @@
 </p>
 
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
+
  <!-- Profile views -->
  <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
@@ -46,11 +47,12 @@ website -->
 
 📫You can reach me at rahulkarda2002@gmail.com
 
-⚡ Fun fact  - I like Philosophy and Astronomy
+⚡ Fun fact - I like Philosophy and Astronomy
 
 <br>
 
 # Projects ⚙️
+
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
   
@@ -172,8 +174,8 @@ website -->
   </tr>
 </table>
 
-
 # Technologies & Tools 🔧
+
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
@@ -197,6 +199,7 @@ website -->
 <br>
 
 # GitHub Stats 📈
+
 <a href="https://github.com/rahulkarda/rahulkarda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarda&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -223,7 +226,7 @@ website -->
 
 <a href="https://github.com/rahulkarda/NFT-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+</a>
 
 <a href="https://github.com/rahulkarda/Wave-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -245,10 +248,12 @@ website -->
 </a>
 <br><br>
 
-## Blog & Writing &#x270d; 
+## Blog & Writing &#x270d;
+
 Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda2002) and [DEV.to](https://dev.to/rahulkarda).
 
 ## Extras 📝
+
   <details>
   <summary>Click to expand!</summary>
   <br>
@@ -272,7 +277,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
  <img src="https://metrics.lecoq.io/rahulkarda?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
 </details>
 
-  
 <!--
 A sample of my recent articles:
 
@@ -288,22 +292,20 @@ A sample of my recent articles:
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
+[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/rahulkarda2002
 [2]: https://github.com/rahulkarda
 [3]: https://www.linkedin.com/in/rahulkarda/
-
 
 <!-- default README.md -->
 <!--
@@ -313,5 +315,3 @@ A sample of my recent articles:
 - 💞️ I’m looking to collaborate on different web dev projects
 - 📫 How to reach me - You can contact me on rahulkarda2002@gmail.com
 -->
-  
- 
