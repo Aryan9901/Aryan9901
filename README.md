@@ -188,13 +188,14 @@ website -->
 </a>
 
 <a href="https://github.com/Aryan9901/Aryan9901">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan9901&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Aryan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan9901&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aryan's GitHub Stats" />
 </a>
 <br><br>
 
-<a href="https://github.com/rahulkarda/Aryan9901">
+<!-- <a href="https://github.com/rahulkarda/Aryan9901">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agaryan&theme=radical&hide_border=true)](https://github.com/Aryan9901" alt="Aryan's GitHub Stats Graph"/>
-</a>
+</a> -->
+
 <br><br>
 
 <a href="https://github.com/Aryan9901/Aryan9901">
