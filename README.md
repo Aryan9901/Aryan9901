@@ -1,19 +1,13 @@
 [![Header](https://github.com/Aryan9901/Aryan9901/blob/master/header1.png?raw=true "Header")](https://rahulkarda.netlify.app)
 
 <p align="center">
-  <a href="https://rahulkarda.netlify.app" target="_blank">
+  <a target="_blank" href="https://portfolio-3d-livid.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=plastic&logo=realm&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rahulkarda2002/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/agaryan/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/rahulkarda2002" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://dev.to/rahulkarda" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
-  </a>
-  <a href="resume.pdf" target="_blank" download="resume.pdf">
+  <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1SEItkP4m3DDMmUlZYIi3vrlUfvdf8eYO" target="_blank" download="resume.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
