@@ -123,7 +123,7 @@ website -->
       <h3 align="center">ECOMMERCE DASHBOARD</h3>
         <br />
         <a target="_blank" href="https://react-admin-dashboard-ts-p3an.vercel.app/admin/dashboard">
-          <img src="images/apodbyrahul.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
+          <img src="images/admindashboard.png" width="100%" alt="NASA Astronomy Picture of the Day"/>
         </a>
         <br />
         <p align="center">
@@ -141,40 +141,40 @@ website -->
   
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Web Postman</h3>
+      <h3 align="center">SHIKSHA ARPAN</h3>
       <br />
-        <a target="_blank" href="https://webpostman.netlify.app">
-          <img src="images/webpostman.jpg" width="100%" alt="Web Postman"/>
+        <a target="_blank" href="https://aryan9901.github.io/Shiksha-Arpan-Web-Development-Challenge-/">
+          <img src="images/shiksha.png" width="100%" alt="Web Postman"/>
         </a>
       <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/Web-Postman" target="_blank">
+  <a href="https://github.com/Aryan9901/Shiksha-Arpan-Web-Development-Challenge-" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://webpostman.netlify.app" target="_blank">
+  <a href="https://aryan9901.github.io/Shiksha-Arpan-Web-Development-Challenge-/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & PrismJs</strong> - A Web interface to easily create GET and POST requests to test and document APIs.</p>
+        <p><strong>HTML, CSS, JAVASCRIPT, GSAP</strong> SHIKSHA ARPAN - The Shiksha Arpan Platform offers an intuitive, user-friendly interface featuring a Community Discussion Forum and an Enhanced Tutor Matching Algorithm for seamless academic assistance and knowledge sharing.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">IP Address Tracker</h3>
-        <br />
-        <a target="_blank" href="https://github.com/rahulkarda/IP-Address-Tracker">
-          <img src="images/iptracker.jpg" width="100%" alt="IP Address Tracker"/>
+      <h3 align="center">SHIKSHA ARPAN</h3>
+      <br />
+        <a target="_blank" href="https://aryan9901.github.io/Shiksha-Arpan-Web-Development-Challenge-/">
+          <img src="images/shiksha.png" width="100%" alt="Web Postman"/>
         </a>
-        <br />
+      <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/IP-Address-Tracker" target="_blank">
+  <a href="https://github.com/Aryan9901/Shiksha-Arpan-Web-Development-Challenge-" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://trackmyip.netlify.app" target="_blank">
+  <a href="https://aryan9901.github.io/Shiksha-Arpan-Web-Development-Challenge-/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - Tracks your IP Address and generates the live location on map.</p>
+        <p><strong>HTML, CSS, JAVASCRIPT, GSAP</strong> SHIKSHA ARPAN - The Shiksha Arpan Platform offers an intuitive, user-friendly interface featuring a Community Discussion Forum and an Enhanced Tutor Matching Algorithm for seamless academic assistance and knowledge sharing.</p>
     </td>
   </tr>
 </table>
