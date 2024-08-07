@@ -12,11 +12,10 @@
   </a>
 </p>
 
-# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
+# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30"> I'm Aryan Gupta.
 
  <!-- Profile views -->
- <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
- <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" height="300">
  
  <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
   
