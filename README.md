@@ -40,7 +40,21 @@ website -->
 
 📫You can reach me at 911aaryan@gmail.com
 
+⚡ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+
 <br>
+
+<h3>🛠 Tech Stack</h3>
+
+💻 &nbsp; Java | C++
+
+🌐 &nbsp; HTML | CSS | SASS | JavaScript | Tailwind | React | JSP
+
+🛢 &nbsp; Node.js | Express.js | Spring | Spring Boot | MongoDb | MySql | Oracle | Firebase
+
+🔧 &nbsp; Visual Studio code | Eclipse | Project Idx | Postman |
+
+🖥 &nbsp; Figma
 
 # Projects ⚙️
 
