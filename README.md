@@ -81,22 +81,22 @@ website -->
         <p><strong>HTML, CSS, JAVASCRIPT, GSAP</strong> - Get Tala Website:  a stylish website showcasing fruit-based snacks with GSAP animations, echoing taglines such as 'Bringing fruit snacks back to their roots,' emphasizing natural flavors and quality ingredients.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wave Portal</h3>
+      <h3 align="center">DIGITAL PORTFOLIO</h3>
         <br />
-      <a target="_blank" href="https://waveatrahul.netlify.app/">
-            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
+      <a target="_blank" href="https://digital-portfolio-aqea.onrender.com/">
+            <img src="images/lmsdigital.png" width="100%"  alt="Wave Portal"/>
         </a>
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
+  <a href="https://github.com/Aryan9901/lmsdigital" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-  <a href="https://waveatrahul.netlify.app/" target="_blank">
+  <a href="https://digital-portfolio-aqea.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal : A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!!.</p>
+        <p><strong>REACT, NODEJS, EXPRESSJS, MONGODB</strong> - DIGITAL PORTFOLIO : LMS Digital revolutionizes online education with its modern Learning Management System.</p>
     </td>
   </tr>
   
@@ -104,38 +104,38 @@ website -->
     <td width="50%" valign="top">
       <h3 align="center">Portfolio App</h3>
       <br />
-        <a target="_blank" href="https://rahulkarda.netlify.app">
-          <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://portfolio-3d-livid.vercel.app/">
+          <img src="images/portfolio.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/Portfolio" target="_blank">
+  <a href="https://github.com/Aryan9901/portfolio-3d" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://rahulkarda.netlify.app" target="_blank">
+  <a href="https://portfolio-3d-livid.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>React, Three-Fiber, threejs, TailwindCSS</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA Astronomy Picture of the Day</h3>
+      <h3 align="center">ECOMMERCE DASHBOARD</h3>
         <br />
-        <a target="_blank" href="https://github.com/rahulkarda/NASA-APOD">
+        <a target="_blank" href="https://react-admin-dashboard-ts-p3an.vercel.app/admin/dashboard">
           <img src="images/apodbyrahul.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
+  <a href="https://github.com/Aryan9901/react_admin_dashboard_ts" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://apodbyrahul.netlify.app" target="_blank">
+  <a href="https://react-admin-dashboard-ts-p3an.vercel.app/admin/dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - With over 10,000 different images, pick a date to get the NASA Astronomy Picture of the Day!</p>
+        <p><strong>REACT, TYPESCRIPT, SASS, REACT-TABLE, CHART-JS-2</strong> ECOMMERCE DASHBOARD - React, TypeScript, and SASS-powered. Features interactive data tables, dynamic charts, and a fun guessing game with instant feedback.</p>
     </td>
   </tr>
   
