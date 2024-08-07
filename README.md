@@ -73,15 +73,15 @@ website -->
 
 <br><br>
 
-<!-- <a href="https://github.com/Aryan9901/Aryan9901">
+<a href="https://github.com/Aryan9901/Aryan9901">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan9901&theme=dark" alt="Aryan's GitHub Streak Stats"/>
-</a> -->
+</a>
 
 <br><br>
 
-<a href="https://github.com/Aryan9901/Aryan9901" style="display:block; margin:1rem auto;">
+<!-- <a href="https://github.com/Aryan9901/Aryan9901">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aryan9901&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Aran's GitHub Contributions Graph"/>
-</a>
+</a> -->
 
 <br><br>
 
