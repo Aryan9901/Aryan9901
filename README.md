@@ -17,7 +17,7 @@
  <!-- Profile views -->
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" height="300">
  
- <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
+ <p align="left">I'm a Fullstack Developer.
   
   I'm from India, living in Bhopal and currently studying Computer Science.
   
@@ -28,19 +28,17 @@
 You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
-🌱 I’m currently learning DevOps
+🌱 Exploring new technologies and developing software solutions and quick hacks.
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website](https://rahulkarda.me)
+👨‍💻 All of my projects are available at [my website](https://portfolio-3d-livid.vercel.app/)
 
-📝 I actively post on [LinkedIn](https://linkedin.com/in/rahulkarda)
+📝 I actively post on [LinkedIn](https://linkedin.com/in/agaryan)
 
-👀 Ask me about React, NextJS, NodeJS, and APIs
+👀 Ask me about React, NodeJS, Spring, Springboot, Rest APIs.
 
-📫You can reach me at rahulkarda2002@gmail.com
-
-⚡ Fun fact - I like Philosophy and Astronomy
+📫You can reach me at 911aaryan@gmail.com
 
 <br>
 
