@@ -63,22 +63,22 @@ website -->
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NFT Portal</h3>
+      <h3 align="center">GET TALA WEBSITE</h3>
         <br />
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
+        <a target="_blank" href="https://aryan9901.github.io/gettala-website/">
+            <img src="images/gettala.gif" width="100%" alt="NFT App"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
+  <a href="https://aryan9901.github.io/gettala-website/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
+  <a href="https://aryan9901.github.io/gettala-website/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A simple Smart contract in Solidity and a Web3 app that lets you Mint your own NFT collection.</p>
+        <p><strong>HTML, CSS, JAVASCRIPT, GSAP</strong> - Get Tala Website:  a stylish website showcasing fruit-based snacks with GSAP animations, echoing taglines such as 'Bringing fruit snacks back to their roots,' emphasizing natural flavors and quality ingredients.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Wave Portal</h3>
