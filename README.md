@@ -56,6 +56,8 @@ website -->
 
 🖥 &nbsp; Figma
 
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+
 # GitHub Stats 📈
 
 <a href="https://github.com/Aryan9901/Aryan9901">
