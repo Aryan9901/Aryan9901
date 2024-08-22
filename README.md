@@ -61,29 +61,22 @@ website -->
 # GitHub Stats 📈
 
 <a href="https://github.com/Aryan9901/Aryan9901">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan9901&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan9901&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical" alt="hat" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+</br>
+&nbsp;&nbsp;
+
 <a href="https://github.com/Aryan9901/Aryan9901">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan9901&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aryan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan9901&layout=pie&theme=radical" alt="hat" />
 </a>
-<br><br>
-
-<!-- <a href="https://github.com/rahulkarda/Aryan9901">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agaryan&theme=radical&hide_border=true)](https://github.com/Aryan9901" alt="Aryan's GitHub Stats Graph"/>
-</a> -->
-
+&nbsp;&nbsp;
+</a>
 <br><br>
 
 <a href="https://github.com/Aryan9901/Aryan9901">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan9901&theme=dark" alt="Aryan's GitHub Streak Stats"/>
 </a>
 
-<br><br>
-
-<!-- <a href="https://github.com/Aryan9901/Aryan9901">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aryan9901&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Aran's GitHub Contributions Graph"/>
-</a> -->
 
 <br><br>
 
