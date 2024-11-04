@@ -68,45 +68,77 @@
 ⚡ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <br>
-<br>
 
-<br>
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
-<h3>🛠 Tech Stack</h3>
+<samp>Tools & Technologies</samp> | <samp>Badge</samp> |
+--- | --- |
+<samp>DevOps</samp> | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+<samp>Cloud Platforms</samp> | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|
+<samp>Programming Languages</samp> | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/C-%23F7DF1E.svg?style=for-the-badge&logo=C&logoColor=blue) ![C++](https://img.shields.io/badge/C++-%23a7DF1E.svg?style=for-the-badge&logo=cplusplus&logoColor=blue)
+<samp>Frameworks</samp> | ![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=react&logoColor=white) ![Nextjs](https://img.shields.io/badge/Nextjs-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/react%20native-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)|
+<samp>IDE & Environment</samp> | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclispse](https://img.shields.io/badge/Eclipse-%23F37626.svg?style=for-the-badge&logo=eclipseide&logoColor=white) ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-143?style=for-the-badge&logo=intellijidea&logoColor=black&color=black&labelColor=green)|
+<samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%234A90E2.svg?style=for-the-badge&logo=bitbucket&logoColor=white)|
+<samp>Servers</samp> | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Tomcat](https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) |
+<samp>Databases</samp> | ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234A90E2.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)|
 
-💻 &nbsp; Java | C++
 
-🌐 &nbsp; HTML | CSS | SASS | JavaScript | Tailwind | React | JSP
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
-🛢 &nbsp; Node.js | Express.js | Spring | Spring Boot | MongoDb | MySql | Oracle | Firebase
-
-🔧 &nbsp; Visual Studio code | Eclipse | Project Idx | Postman |
-
-🖥 &nbsp; Figma
-
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-
-# GitHub Stats 📈
-
-<a href="https://github.com/Aryan9901/Aryan9901">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan9901&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical" alt="hat" />
-</a>
-</br>
-&nbsp;&nbsp;
-
-<a href="https://github.com/Aryan9901/Aryan9901">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan9901&layout=pie&theme=radical" alt="hat" />
-</a>
-&nbsp;&nbsp;
-</a>
-<br><br>
-
-<a href="https://github.com/Aryan9901/Aryan9901">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan9901&theme=dark" alt="Aryan's GitHub Streak Stats"/>
-</a>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
 <br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan9901&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Aryan9901" />
+
+</details>                     
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Github Metrics & All ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<br>
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
+
+<div align="center">
+  <a href="http://www.linkedin.com/in/md-azfar-alam"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
+  <br>
+  <a href="https://medium.com/@azfaralam/"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://instagram.com/azfarxx_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"/></a> 
+  <br> 
+  <a href="https://www.facebook.com/mdazfar2/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
+  <a href="https://app.daily.dev/azfaralam/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
+  <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
+  <br>
+  <a href="https://azfaralam.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
+  <a href="mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
+  
+</div>
+
+<hr>
+
+<!--
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan9901&theme=dark&hide_border=false" alt="Aryan9901" />
+</p> 
+-->
+
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
+</p>
+
 
 # Projects ⚙️
 
