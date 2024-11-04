@@ -12,35 +12,63 @@
   </a>
 </p>
 
-# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30"> I'm Aryan Gupta.
+<!--visitors badge link-->
+<!-- <div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Aryan9901&label=Visitors&countColor=%23263759" />
+  <br>
+</div>
+<br> -->
 
- <!-- Profile views -->
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" height="300">
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
  
- <p align="left">I'm a Fullstack Developer.
-  
-  I'm from India, living in Bhopal and currently studying Computer Science.
-  
-<!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
+ </a>
+ 
 </p>
 
-<!-- See [my website](https://rahulkarda.netlify.app) for more information! <br> <br>
-You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-website -->
+<p align="center"> With a fierce passion for excellence, I stand before you - I am 𝐀𝐫𝐲𝐚𝐧 𝐆𝐮𝐩𝐭𝐚. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.</p>
+
+### <p align="center">My Technical Skills</p>
+
+<p align="center">
+  <a href="https://mdazfar2.netlify.app">
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,vscode,github,postman,figma,mysql,mongodb" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://mdazfar2.netlify.app">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,sass,tailwind,bun" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://mdazfar2.netlify.app">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,spring,threejs,redux,nodejs" />
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div>
+
+<i>&nbsp; Work with Optimism, Hope for the Best!</i><br><br>
+
+👋 Greetings! It's great to have you here. I'm Aryan Gupta.
+
+🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science.
 
 🌱 Exploring new technologies and developing software solutions and quick hacks.
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website](https://portfolio-3d-livid.vercel.app/)
-
-📝 I actively post on [LinkedIn](https://linkedin.com/in/agaryan)
-
-👀 Ask me about React, NodeJS, Spring, Springboot, Rest APIs.
+👨‍💻 All of my projects are available at [my website](https://aryang.xyz/)
 
 📫You can reach me at 911aaryan@gmail.com
 
 ⚡ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+
+<br>
+<br>
 
 <br>
 
