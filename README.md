@@ -69,6 +69,25 @@
 
 <br>
 
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
+
+<div align="center">
+  <a href="http://www.linkedin.com/in/agaryan"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
+  <br>
+  <a href="https://medium.com/@azfaralam/"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://instagram.com/azfarxx_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"/></a> 
+  <br> 
+  <a href="https://www.facebook.com/mdazfar2/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
+  <a href="https://app.daily.dev/azfaralam/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
+  <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
+  <br>
+  <a href="https://azfaralam.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
+  <a href="911aaryan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
+  
+</div>
+
+
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
@@ -101,25 +120,6 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <br>
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
-
-<div align="center">
-  <a href="http://www.linkedin.com/in/md-azfar-alam"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
-  <br>
-  <a href="https://medium.com/@azfaralam/"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://instagram.com/azfarxx_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"/></a> 
-  <br> 
-  <a href="https://www.facebook.com/mdazfar2/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
-  <a href="https://app.daily.dev/azfaralam/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
-  <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
-  <br>
-  <a href="https://azfaralam.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
-  <a href="mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
-  
-</div>
-
 <hr>
 
 <!--
