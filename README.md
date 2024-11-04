@@ -134,10 +134,52 @@
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan9901&theme=dark&hide_border=true"/>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
    </a>
 </p>
+
+
+# Github Stats
+
+<!-- ---------------------------------------STATS------------------------------------------
+--------------------------------------------------------------------------------------------- -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan9901&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="Aryan9901" /></p>
+
+<p align="left"><img
+                src="https://github-readme-stats.vercel.app/api?username=Aryan9901&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="Aryan9901" height="170" /></p>
+                
+
+
+
+<img src="https://img.shields.io/github/followers/Aryan9901.svg?style=social&amp;label=Follow"
+        style="max-width: 100%;" />
+        
+<!-- ---------------------------------------STATS------------------------------------------
+--------------------------------------------------------------------------------------------- -->      
+        
+          
+
+<br>      
+<details>
+  
+<p align="center">
+  <a href="https://github.com/Aryan9901">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan9901&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aryan9901">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan9901&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aryan9901">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan9901&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aryan9901">
+
+</details>
+
+<br><br>
 
 
 # Projects ⚙️
