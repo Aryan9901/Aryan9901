@@ -1,4 +1,4 @@
-[![Header](https://github.com/Aryan9901/Aryan9901/blob/master/header1.png?raw=true "Header")](https://aryang.xyz)
+[![Header](https://raw.githubusercontent.com/Aryan9901/Aryan9901/refs/heads/master/images/Green%20and%20White%20UI%20Technology%20Profile%20LinkedIn%20Banner.png "Header")](https://aryang.xyz)
 
 <p align="center">
   <a target="_blank" href="https://aryang.xyz" target="_blank">
